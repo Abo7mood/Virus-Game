@@ -1,0 +1,2 @@
+F:\Projecter\VirusGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\Projecter\VirusGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
